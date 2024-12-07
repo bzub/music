@@ -2,6 +2,7 @@
 
 ## Lyrics
 
+```
 You’ve been searching for a sign
 That everything will be alright
 But no matter what you find
@@ -32,4 +33,4 @@ Because the lines on your hands lie
 Next you’re gonna ask the stars
 Next you’re gonna ask the 
 sky
-
+```
